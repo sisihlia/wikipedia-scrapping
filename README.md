@@ -1,13 +1,25 @@
 # wikipedia-scrapping
 
 
-Check specs
+Create virtual environment 
+======================
+    python3 -m venv ~/.venv
+    source ~/.venv/bin/activate
+    pip install --upgrade pip
+    
+
+Set specs
 ======================
     sam init
   
 Build image
 ======================
     sam build
+    
+Install requirement
+======================
+    cd hello-world
+    pip install -r requirements.txt
     
 Test image
 ======================
