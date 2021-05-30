@@ -35,6 +35,14 @@ Create and deploye lambda
     
     
 Check the lambda and the stack created    
+
 ![image](https://user-images.githubusercontent.com/8087964/120100561-ac23e280-c141-11eb-9c5d-c2c832d21231.png)
+
 ![image](https://user-images.githubusercontent.com/8087964/120100603-dd041780-c141-11eb-91c9-81bc8b99912b.png)
+
+The created lambda can be tested both from aws console and aws cloud9
+![image](https://user-images.githubusercontent.com/8087964/120100667-2eaca200-c142-11eb-8c7a-9b8188861c0d.png)
+
+![image](https://user-images.githubusercontent.com/8087964/120100700-53087e80-c142-11eb-84b3-4afc5026f6a1.png)
+
 
